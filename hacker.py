@@ -104,8 +104,8 @@ def logo():
 		
 		
 
-jalan('\033[1;93m THIS TOOL COMING OLD ACCOUNTS ')
-jalan('\033[1;93m              Welcome to FbCloning2022')
+('\033[1;93m THIS TOOL COMING OLD ACCOUNTS ')
+('\033[1;93m              Welcome to FbCloning2022')
 jalan('\033[1;93m I M Prekash this tool creater ')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96m SKY CYBER TEAM PREKASH \033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 

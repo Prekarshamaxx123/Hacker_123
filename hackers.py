@@ -105,25 +105,7 @@ jalan("\033[1;96m─────────────────────
 jalan('\033[1;93m THIS TOOL COMING OLD ACCOUNTS ')
 jalan('\033[1;93m              Welcome to FbCloning2022')
 jalan('\033[1;93m I M Prekash this tool creater ')
-print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96m SKY CYBER TEAM PREKASH \033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "Hacker"
-CorrectPassword = "PREKASH"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;97m📋 \x1b[1;96mTool Username \x1b[1;97m»» \x1b[1;97m")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;97m🗝 \x1b[1;96mTool Password \x1b[1;97m»» \x1b[1;97m")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Prekash_hacker
-	    time.sleep(2)
-            loop = 'false'
-        else:
-            print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.facebook.com/PREKASH.I.AM.HACKER.Im.silent')
-    else:
-        print "\033[1;96mWrong Username"
         os.system('xdg-open https://www.facebook.com/PREKASH.I.AM.HACKER.Im.silent')
         
   def login():

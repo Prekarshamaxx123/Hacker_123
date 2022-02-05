@@ -1,5 +1,4 @@
 # Hacker_123
-Crack facebook
 # -*- coding: utf-8
 
 # author by NAIM VAU

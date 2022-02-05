@@ -119,7 +119,7 @@ def login():
 
 	except KeyError, IOError:
 
-		token = raw_input("[?] Enter Token : ")
+		token = raw_input("[?] Enter Token ==> : ")
 
 		if token == "":
 

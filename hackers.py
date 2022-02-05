@@ -97,18 +97,7 @@ def logo():
 \x1b[0;33m║#WHATSAPP : 071**********                   ║
 \x1b[0;33m╚════════════════════════════════════════════╝""")
 
-	jalan("\033[1;96m╔══╗──────────╔╗───────╔╗─")
-jalan("\033[1;96m║═╦╝╔═╗─╔═╗╔═╗║╚╗╔═╗╔═╗║╠╗")
-jalan("\033[1;96m║╔╝─║╬╚╗║═╣║╩╣║╬║║╬║║╬║║═╣")
-jalan("\033[1;96m╚╝──╚══╝╚═╝╚═╝╚═╝╚═╝╚═╝╚╩╝")
-jalan("\033[1;96m──────────────────────────")
-jalan('\033[1;93m THIS TOOL COMING OLD ACCOUNTS ')
-jalan('\033[1;93m              Welcome to FbCloning2022')
-jalan('\033[1;93m I M Prekash this tool creater ')
-
-     
-        
-  def login():
+def login():
         
 	os.system("clear")
 

@@ -106,7 +106,7 @@ jalan('\033[1;93m THIS TOOL COMING OLD ACCOUNTS ')
 jalan('\033[1;93m              Welcome to FbCloning2022')
 jalan('\033[1;93m I M Prekash this tool creater ')
 
-        os.system('xdg-open https://www.facebook.com/PREKASH.I.AM.HACKER.Im.silent')
+     
         
   def login():
         

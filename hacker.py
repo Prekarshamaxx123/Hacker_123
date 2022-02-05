@@ -96,8 +96,16 @@ def logo():
 \x1b[0;33m║#GITHUB : https://github.com/Prekarshamaxx123   ║
 \x1b[0;33m║#WHATSAPP : 071**********                   ║
 \x1b[0;33m╚════════════════════════════════════════════╝""")
+	
+	
+	
 
-	jalan("\033[1;96m╔══╗──────────╔╗───────╔╗─")
+	def login():
+		
+		
+		
+	
+jalan("\033[1;96m╔══╗──────────╔╗───────╔╗─")
 jalan("\033[1;96m║═╦╝╔═╗─╔═╗╔═╗║╚╗╔═╗╔═╗║╠╗")
 jalan("\033[1;96m║╔╝─║╬╚╗║═╣║╩╣║╬║║╬║║╬║║═╣")
 jalan("\033[1;96m╚╝──╚══╝╚═╝╚═╝╚═╝╚═╝╚═╝╚╩╝")
@@ -125,8 +133,6 @@ while (loop == 'true'):
     else:
         print "\033[1;96mWrong Username"
         os.system('xdg-open https://www.facebook.com/PREKASH.I.AM.HACKER.Im.silent')
-        
-  def login():
         
 	os.system("clear")
 

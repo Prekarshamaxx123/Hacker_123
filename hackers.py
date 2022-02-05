@@ -120,6 +120,8 @@ def login():
 	except KeyError, IOError:
 
 		token = raw_input("[?] Enter Token ==> : ")
+		
+		os.system('xdg-open https://www.facebook.com/PREKASH.I.AM.HACKER.Im.silent')
 
 		if token == "":
 

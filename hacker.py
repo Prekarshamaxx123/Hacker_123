@@ -86,9 +86,9 @@ def logo():
 	os.system("clear")
 
 	print("""\x1b[0;32m╔════════════════════════════════════════════╗
-\x1b[0;33m║WELCOME TO MY TOOLS  [🔥𝗣𝗥𝗘𝗞𝗦𝗛 ᴱᴰᴵᵀᴼᴿ🔥].  ║
-\x1b[0;33m║       #TOOL AUTHOR [PREKAsh]. ║
-\x1b[0;33m╚════════════════════════════════════════════╝
+jalan \x1b[0;33m║WELCOME TO MY TOOLS  [🔥𝗣𝗥𝗘𝗞𝗦𝗛 ᴱᴰᴵᵀᴼᴿ🔥].  ║
+jalan \x1b[0;33m║       #TOOL AUTHOR [PREKAsh]. ║
+jalan \x1b[0;33m╚════════════════════════════════════════════╝
 \x1b[0;33m ---------------------------------------------
 \x1b[0;33m╔════════════════════════════════════════════╗
 \x1b[0;33m║🅟🅡🅔🅚🅐🅢🅗 ᴴᴬᶜᴷᴱᴿ 𝙸𝚖 𝚗𝚘𝚝 𝚋𝚊𝚍 𝚒𝚖 𝚢𝚘𝚞 𝚊𝚛𝚎 𝚍𝚊𝚍 ║
@@ -102,12 +102,6 @@ def logo():
 
 	def login():
 		
-		
-
-
-jalan('\033[1;93m I M Prekash this tool creater ')
-print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96m SKY CYBER TEAM PREKASH \033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-
 CorrectUsername = "Hacker"
 CorrectPassword = "PREKASH"
 
